@@ -1,0 +1,2 @@
+# Ignore macOS metadata files anywhere
+**/.DS_Store
