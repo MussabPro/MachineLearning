@@ -1,2 +1,10 @@
 # Ignore macOS metadata files anywhere
 **/.DS_Store
+
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3       
